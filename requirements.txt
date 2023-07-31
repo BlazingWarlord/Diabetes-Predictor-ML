@@ -2,4 +2,4 @@ scikit-learn
 pandas
 sklearn.linear_model
 numpy
-
+sklearn.model_selection
