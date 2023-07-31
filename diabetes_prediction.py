@@ -31,7 +31,7 @@ else:
 
 
 
-df = pd.read_csv("C:\\Users\\11110\\OneDrive\\Desktop\\dpd.csv")
+df = pd.read_csv("dpd.csv")
 
 df = df.drop('smoking_history',axis='columns')
 
